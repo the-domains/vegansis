@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VeganSis - two sisters - one lifestyle]]></title>
+        <description><![CDATA[VeganSis - two sisters - one lifestyle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Apr 2016 07:55:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to our blog! ]]></title>
+            <description><![CDATA[<article><h1>Welcome to our blog! </h1><p>Two sisters - one lifestyle. </p></article>]]></description>
+            <link>undefinedwelcome-to-our-blog/index.html</link>
+            <guid isPermaLink="false">59db5f7d-f2e0-475c-988e-a1d304d90680</guid>
+            <pubDate>Fri, 08 Apr 2016 07:55:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
